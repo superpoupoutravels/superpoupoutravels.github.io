@@ -1,0 +1,23 @@
+{
+  "trips": [
+    {
+      "slug": "maroc-2025",
+      "name": "Maroc 2025",
+      "summary": "10 jours dans le sud marocain ",
+      "start_date": "2025-11-06",
+      "end_date": "2025-11-16",
+      "total_km": 5351,
+      "step_count": 34,
+      "photo_count": 245,
+      "cover": {
+        "full": "photos/maroc-2025/_cover/cover.webp",
+        "thumb": "photos/maroc-2025/_cover/cover_thumb.webp",
+        "og": "photos/maroc-2025/_cover/cover.jpg"
+      },
+      "countries": [
+        "FR",
+        "MA"
+      ]
+    }
+  ]
+}

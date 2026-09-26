@@ -1,0 +1,1515 @@
+{
+  "slug": "maroc-2025",
+  "name": "Maroc 2025",
+  "summary": "10 jours dans le sud marocain ",
+  "start_date": "2025-11-06",
+  "end_date": "2025-11-16",
+  "total_km": 5351,
+  "step_count": 34,
+  "photo_count": 245,
+  "cover": {
+    "full": "photos/maroc-2025/_cover/cover.webp",
+    "thumb": "photos/maroc-2025/_cover/cover_thumb.webp",
+    "og": "photos/maroc-2025/_cover/cover.jpg"
+  },
+  "countries": [
+    "FR",
+    "MA"
+  ],
+  "steps": [
+    {
+      "id": 203401140,
+      "name": "Nantes aéroport",
+      "description": "",
+      "date": "2025-11-06",
+      "lat": 47.152348199999985,
+      "lon": -1.6099365000000319,
+      "place": "France",
+      "country_code": "FR",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 19,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/nantes-aeroport-203401140/00.webp",
+          "thumb": "photos/maroc-2025/nantes-aeroport-203401140/00_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203400982,
+      "name": "Agadir Aeroport",
+      "description": "",
+      "date": "2025-11-06",
+      "lat": 30.325500100000014,
+      "lon": -9.41212090000002,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 25,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/agadir-aeroport-203400982/00.webp",
+          "thumb": "photos/maroc-2025/agadir-aeroport-203400982/00_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203401529,
+      "name": "Taroudant",
+      "description": "",
+      "date": "2025-11-06",
+      "lat": 30.471709999999955,
+      "lon": -8.879323199999988,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 25,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/00.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/01.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/02.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/03.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/04.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/05.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/06.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/07.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/08.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/09.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/09_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/10.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/10_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/11.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/11_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/12.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/12_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/13.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/13_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/14.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/14_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/15.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/15_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/16.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/16_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/17.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/17_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/18.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/18_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taroudant-203401529/19.webp",
+          "thumb": "photos/maroc-2025/taroudant-203401529/19_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203403121,
+      "name": "Taliouine",
+      "description": "",
+      "date": "2025-11-07",
+      "lat": 30.53146289999997,
+      "lon": -7.921520700000002,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 22,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/00.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/01.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/02.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/03.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/04.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/05.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/06.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/07.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/taliouine-203403121/08.webp",
+          "thumb": "photos/maroc-2025/taliouine-203403121/08_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203403957,
+      "name": "Route vers Aït Ben Haddou",
+      "description": "",
+      "date": "2025-11-07",
+      "lat": 30.799027799999994,
+      "lon": -7.291534200000029,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/00.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/01.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/02.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/03.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/04.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/05.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/06.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/07.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/08.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/09.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/09_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/10.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/10_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/11.webp",
+          "thumb": "photos/maroc-2025/route-vers-ait-ben-haddou-203403957/11_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203404481,
+      "name": "Aït Ben Haddou - À la tombée de la nuit",
+      "description": "",
+      "date": "2025-11-07",
+      "lat": 31.04515359999996,
+      "lon": -7.13097060000004,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/00.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/01.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/02.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/03.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/04.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/05.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/06.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/07.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/08.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/09.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/09_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/10.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/10_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/11.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-a-la-tombee-de-la-nuit-203404481/11_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203566343,
+      "name": "Ait Ben Haddou - matin",
+      "description": "Lever de soleil sur Aït Ben Haddou. \nKasbah qui a servi de lieu de tournage (Gladiator, Game of Thrones, La Momie, etc.).\nMagnifique endroit, patrimoine mondial de l’UNESCO",
+      "date": "2025-11-08",
+      "lat": 31.04515359999996,
+      "lon": -7.13097060000004,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/00.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/01.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/02.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/03.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/04.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/05.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/06.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/07.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/08.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ait-ben-haddou-matin-203566343/09.webp",
+          "thumb": "photos/maroc-2025/ait-ben-haddou-matin-203566343/09_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203567201,
+      "name": "Kalaat M'Gouna",
+      "description": "Une petite pause déjeuner bien méritée avant d’entamer notre parcours dans la vallée de la rose 🌹",
+      "date": "2025-11-08",
+      "lat": 31.23755729999999,
+      "lon": -6.128805900000004,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 24,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/kalaat-mgouna-203567201/00.webp",
+          "thumb": "photos/maroc-2025/kalaat-mgouna-203567201/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/kalaat-mgouna-203567201/01.webp",
+          "thumb": "photos/maroc-2025/kalaat-mgouna-203567201/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/kalaat-mgouna-203567201/02.webp",
+          "thumb": "photos/maroc-2025/kalaat-mgouna-203567201/02_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203567585,
+      "name": "Timstiguite - La Vallée de la rose",
+      "description": "Découverte de la vallée de la rose : à travers une route entre goudron, terre et pierre, nous suivons la rivière , en découvrant les canyon et des paysages grandiose sable",
+      "date": "2025-11-08",
+      "lat": 31.372875,
+      "lon": -6.162449000000009,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 22,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/00.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/01.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/02.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/03.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/04.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/05.webp",
+          "thumb": "photos/maroc-2025/timstiguite-la-vallee-de-la-rose-203567585/05_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203568217,
+      "name": "Boutharar - La vallée de la rose",
+      "description": "La route déformée se transforme en piste, puis chemin de 4x4… le tout en Dacia Logan! \nUne épreuve ! Le cœur bien accroché pour les franchissement…",
+      "date": "2025-11-08",
+      "lat": 31.400135499999994,
+      "lon": -6.055994099999964,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/00.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/01.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/02.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/03.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/04.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/05.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/06.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/07.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/08.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/09.webp",
+          "thumb": "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/09_thumb.webp"
+        }
+      ],
+      "videos": [
+        "photos/maroc-2025/boutharar-la-vallee-de-la-rose-203568217/5437fa34-3aa7-4c69-80e4-468ebf203140_video.mp4"
+      ]
+    },
+    {
+      "id": 203575045,
+      "name": "Tamellalt - Les gorges du Dades",
+      "description": "Après une belle journée avec la découverte de nouveaux décors, nous voici à l’entrée des gorges du Dades. \nDans notre logement typique, nous attend un bon repas. Un Harira, un potage à base de pois chiche, tomates, viande, vermicelles et épices.\nPuis un Tajine Gallia, un Tajine avec du poulet, tomates, œufs, oignons, et olives.",
+      "date": "2025-11-08",
+      "lat": 31.452407000000004,
+      "lon": -5.969062699999995,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/00.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/01.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/02.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/03.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/04.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/05.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/06.webp",
+          "thumb": "photos/maroc-2025/tamellalt-les-gorges-du-dades-203575045/06_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203772175,
+      "name": "Gorges du Dades",
+      "description": "Traversée des gorges du Dades avec de très beaux points de vue sur cette roche incroyable",
+      "date": "2025-11-09",
+      "lat": 31.529707200000004,
+      "lon": -5.925193900000012,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 21,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/gorges-du-dades-203772175/00.webp",
+          "thumb": "photos/maroc-2025/gorges-du-dades-203772175/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-du-dades-203772175/01.webp",
+          "thumb": "photos/maroc-2025/gorges-du-dades-203772175/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-du-dades-203772175/02.webp",
+          "thumb": "photos/maroc-2025/gorges-du-dades-203772175/02_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203772813,
+      "name": "Tinghir - fin des gorges du Dades",
+      "description": "",
+      "date": "2025-11-09",
+      "lat": 31.6504033,
+      "lon": -5.845965100000001,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 17,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/00.webp",
+          "thumb": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/01.webp",
+          "thumb": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/02.webp",
+          "thumb": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/03.webp",
+          "thumb": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/04.webp",
+          "thumb": "photos/maroc-2025/tinghir-fin-des-gorges-du-dades-203772813/04_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 203773217,
+      "name": "Passage lunaire vers les gorges de Todhga",
+      "description": "",
+      "date": "2025-11-09",
+      "lat": 31.744098700000016,
+      "lon": -5.595800800000006,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 18,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/00.webp",
+          "thumb": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/01.webp",
+          "thumb": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/02.webp",
+          "thumb": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/03.webp",
+          "thumb": "photos/maroc-2025/passage-lunaire-vers-les-gorges-de-todhga-203773217/03_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204459150,
+      "name": "Vallée du Todgha",
+      "description": "",
+      "date": "2025-11-09",
+      "lat": 31.590318599999993,
+      "lon": -5.596766599999995,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 24,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/vallee-du-todgha-204459150/00.webp",
+          "thumb": "photos/maroc-2025/vallee-du-todgha-204459150/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/vallee-du-todgha-204459150/01.webp",
+          "thumb": "photos/maroc-2025/vallee-du-todgha-204459150/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/vallee-du-todgha-204459150/02.webp",
+          "thumb": "photos/maroc-2025/vallee-du-todgha-204459150/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/vallee-du-todgha-204459150/03.webp",
+          "thumb": "photos/maroc-2025/vallee-du-todgha-204459150/03_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204459575,
+      "name": "Tinghir",
+      "description": "",
+      "date": "2025-11-09",
+      "lat": 31.524712499999993,
+      "lon": -5.529363100000012,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tinghir-204459575/00.webp",
+          "thumb": "photos/maroc-2025/tinghir-204459575/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-204459575/01.webp",
+          "thumb": "photos/maroc-2025/tinghir-204459575/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-204459575/02.webp",
+          "thumb": "photos/maroc-2025/tinghir-204459575/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-204459575/03.webp",
+          "thumb": "photos/maroc-2025/tinghir-204459575/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tinghir-204459575/04.webp",
+          "thumb": "photos/maroc-2025/tinghir-204459575/04_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204460045,
+      "name": "Ouarzazate",
+      "description": "",
+      "date": "2025-11-09",
+      "lat": 30.92019299999996,
+      "lon": -6.910922999999997,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 28,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/00.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/01.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/02.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/03.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/04.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/05.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/06.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/07.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/08.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/09.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/09_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/10.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/10_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/11.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/11_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/12.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/12_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/13.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/13_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/14.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/14_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/15.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/15_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/16.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/16_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/17.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/17_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ouarzazate-204460045/18.webp",
+          "thumb": "photos/maroc-2025/ouarzazate-204460045/18_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204460280,
+      "name": "Oasis de Fint",
+      "description": "",
+      "date": "2025-11-10",
+      "lat": 30.821056300000013,
+      "lon": -6.949417000000011,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/00.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/01.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/02.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/03.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/04.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/05.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/06.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/oasis-de-fint-204460280/07.webp",
+          "thumb": "photos/maroc-2025/oasis-de-fint-204460280/07_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204460373,
+      "name": "Agdz",
+      "description": "",
+      "date": "2025-11-10",
+      "lat": 30.692113300000003,
+      "lon": -6.4424166999999954,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/agdz-204460373/00.webp",
+          "thumb": "photos/maroc-2025/agdz-204460373/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/agdz-204460373/01.webp",
+          "thumb": "photos/maroc-2025/agdz-204460373/01_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204460554,
+      "name": "Ksar de Tamnougalt",
+      "description": "",
+      "date": "2025-11-10",
+      "lat": 30.67556540000001,
+      "lon": -6.388153699999975,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 26,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/00.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/01.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/02.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/03.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/04.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/05.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/06.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/07.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tamnougalt-204460554/08.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tamnougalt-204460554/08_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204460845,
+      "name": "M’Hamid El Ghizlane",
+      "description": "M’Hamid… point de départ de notre trek dans le desert",
+      "date": "2025-11-10",
+      "lat": 29.825798800000037,
+      "lon": -5.719853199999989,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 31,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/mhamid-el-ghizlane-204460845/00.webp",
+          "thumb": "photos/maroc-2025/mhamid-el-ghizlane-204460845/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/mhamid-el-ghizlane-204460845/01.webp",
+          "thumb": "photos/maroc-2025/mhamid-el-ghizlane-204460845/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/mhamid-el-ghizlane-204460845/02.webp",
+          "thumb": "photos/maroc-2025/mhamid-el-ghizlane-204460845/02_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204505988,
+      "name": "Camp de base",
+      "description": "Une première nuit aux portes des dunes… un coucher de soleil et un lever de soleil dans un cadre magnifique",
+      "date": "2025-11-11",
+      "lat": 29.841170800000004,
+      "lon": -5.715002000000027,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 31,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/00.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/01.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/02.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/03.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/04.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/05.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/06.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/07.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/08.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/camp-de-base-204505988/09.webp",
+          "thumb": "photos/maroc-2025/camp-de-base-204505988/09_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204507124,
+      "name": "Bivouac sous les étoiles",
+      "description": "",
+      "date": "2025-11-11",
+      "lat": 29.798142200000008,
+      "lon": -5.80392249999997,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 31,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/00.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/01.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/02.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/03.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/04.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/05.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/06.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/07.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/08.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/09.webp",
+          "thumb": "photos/maroc-2025/bivouac-sous-les-etoiles-204507124/09_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204612249,
+      "name": "Bivouac - jour 2",
+      "description": "",
+      "date": "2025-11-12",
+      "lat": 29.83621930000003,
+      "lon": -5.817788199999995,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 30,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/00.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/01.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/02.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/03.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/04.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/05.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/06.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/bivouac-jour-2-204612249/07.webp",
+          "thumb": "photos/maroc-2025/bivouac-jour-2-204612249/07_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204613484,
+      "name": "Erg Chegaga",
+      "description": "Destination l’Erg Chegaga en 4x4.\n1h30 de piste avec un stop au niveau de l’oasis sacrée, afin de rejoindre notre dernier camp de base aux pieds des immenses dunes de sable. \nUne balade dans les dunes, puis grimper sur la plus haute, afin d’y admirer le coucher de soleil. Un spectacle grandiose avec des changements de couleurs, entre ombre et lumière.",
+      "date": "2025-11-12",
+      "lat": 29.815103700000037,
+      "lon": -6.170927199999994,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 30,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/00.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/01.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/02.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/03.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/04.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/05.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/06.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/07.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/08.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/08_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/09.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/09_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/erg-chegaga-204613484/10.webp",
+          "thumb": "photos/maroc-2025/erg-chegaga-204613484/10_thumb.webp"
+        }
+      ],
+      "videos": [
+        "photos/maroc-2025/erg-chegaga-204613484/bb599207-1760-4c70-83cd-52510e0da6d7_video.mp4"
+      ]
+    },
+    {
+      "id": 204614623,
+      "name": "Ksar de Tissergate",
+      "description": "Visite du ksar de Tissergate et d’un petit musée des activités locales de l’époque",
+      "date": "2025-11-13",
+      "lat": 30.39666719999999,
+      "lon": -5.859032399999961,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 27,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/ksar-de-tissergate-204614623/00.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tissergate-204614623/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tissergate-204614623/01.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tissergate-204614623/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tissergate-204614623/02.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tissergate-204614623/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tissergate-204614623/03.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tissergate-204614623/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/ksar-de-tissergate-204614623/04.webp",
+          "thumb": "photos/maroc-2025/ksar-de-tissergate-204614623/04_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204615027,
+      "name": "Tata",
+      "description": "Halte sur la route du Sud, avec une pause à Tata pour reprendre des forces",
+      "date": "2025-11-13",
+      "lat": 29.746392000000014,
+      "lon": -7.9696050999999954,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "cloudy",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tata-204615027/00.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/01.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/02.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/03.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/04.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/05.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tata-204615027/06.webp",
+          "thumb": "photos/maroc-2025/tata-204615027/06_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204615464,
+      "name": "Route vers Tafraoute",
+      "description": "Magnifique route vers Tafraoute, seuls au monde ou presque, sillonnant les montagnes aux roches pleines de couleurs et de formes incroyables.",
+      "date": "2025-11-14",
+      "lat": 29.643874799999995,
+      "lon": -8.378516600000012,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/00.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/01.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/02.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/03.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/04.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/05.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/06.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/07.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/07_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/route-vers-tafraoute-204615464/08.webp",
+          "thumb": "photos/maroc-2025/route-vers-tafraoute-204615464/08_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204615652,
+      "name": "Tafraoute",
+      "description": "",
+      "date": "2025-11-14",
+      "lat": 29.720471999999994,
+      "lon": -8.97445289999996,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 22,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/00.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/01.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/02.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/03.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/04.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/05.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/06.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/06_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tafraoute-204615652/07.webp",
+          "thumb": "photos/maroc-2025/tafraoute-204615652/07_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204616130,
+      "name": "Gorges d’Aït Mansour",
+      "description": "Après une pause déjeuner, nous voici partis vers les gorges d’Aït Mansour.  \nUne montée vers les hauteurs avec de magnifiques panoramas, puis une descente vers les gorges : les reflets orangés des parois qui contrastent avec le vert des palmiers. Entre 11 et 15 degrés dehors, malgré un beau soleil.",
+      "date": "2025-11-14",
+      "lat": 29.54749870000001,
+      "lon": -8.875037600000013,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 16,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/00.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/01.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/02.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/03.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/04.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/gorges-dait-mansour-204616130/05.webp",
+          "thumb": "photos/maroc-2025/gorges-dait-mansour-204616130/05_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204616350,
+      "name": "Les rochers peints",
+      "description": "Proche de Tafraoute, après quelques kilomètres de piste, nous découvrons des rochers (assez monumentaux) peints en pleine nature. Le travail d’un artiste il y a plusieurs années.",
+      "date": "2025-11-14",
+      "lat": 29.66294480000001,
+      "lon": -8.965137400000003,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "clear-day",
+      "weather_temperature": 14,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/les-rochers-peints-204616350/00.webp",
+          "thumb": "photos/maroc-2025/les-rochers-peints-204616350/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/les-rochers-peints-204616350/01.webp",
+          "thumb": "photos/maroc-2025/les-rochers-peints-204616350/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/les-rochers-peints-204616350/02.webp",
+          "thumb": "photos/maroc-2025/les-rochers-peints-204616350/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/les-rochers-peints-204616350/03.webp",
+          "thumb": "photos/maroc-2025/les-rochers-peints-204616350/03_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204888596,
+      "name": "Tizourgane",
+      "description": "Tizourgane, une petite cité fortifiée sur un éperon rocheux. Magnifiques pierres très bien restaurées.",
+      "date": "2025-11-15",
+      "lat": 29.886749999999996,
+      "lon": -9.001882200000011,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/00.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/01.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/02.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/03.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/04.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/04_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/05.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/05_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/tizourgane-204888596/06.webp",
+          "thumb": "photos/maroc-2025/tizourgane-204888596/06_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204889005,
+      "name": "Agadir - plage",
+      "description": "Avant le retour, un bain de pieds sur la plage d’Agadir. Profiter des derniers rayons de soleil…",
+      "date": "2025-11-15",
+      "lat": 30.413266099999976,
+      "lon": -9.604417699999999,
+      "place": "Morocco",
+      "country_code": "MA",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 23,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/agadir-plage-204889005/00.webp",
+          "thumb": "photos/maroc-2025/agadir-plage-204889005/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/agadir-plage-204889005/01.webp",
+          "thumb": "photos/maroc-2025/agadir-plage-204889005/01_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/agadir-plage-204889005/02.webp",
+          "thumb": "photos/maroc-2025/agadir-plage-204889005/02_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/agadir-plage-204889005/03.webp",
+          "thumb": "photos/maroc-2025/agadir-plage-204889005/03_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/agadir-plage-204889005/04.webp",
+          "thumb": "photos/maroc-2025/agadir-plage-204889005/04_thumb.webp"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": 204922335,
+      "name": "Nantes",
+      "description": "",
+      "date": "2025-11-16",
+      "lat": 47.218637099999995,
+      "lon": -1.5541362000000163,
+      "place": "France",
+      "country_code": "FR",
+      "weather_condition": "partly-cloudy-day",
+      "weather_temperature": 13,
+      "photos": [
+        {
+          "full": "photos/maroc-2025/nantes-204922335/00.webp",
+          "thumb": "photos/maroc-2025/nantes-204922335/00_thumb.webp"
+        },
+        {
+          "full": "photos/maroc-2025/nantes-204922335/01.webp",
+          "thumb": "photos/maroc-2025/nantes-204922335/01_thumb.webp"
+        }
+      ],
+      "videos": []
+    }
+  ]
+}

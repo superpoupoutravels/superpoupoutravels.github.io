@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+
+<!-- Balises de partage : generees pour ce voyage precis par convert_polarsteps.py -->
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:url" content="{{PAGE_URL}}">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="../index.html">Wayfarer <em>Log</em></a>
+    <a class="back-link" href="../index.html">← tous les voyages</a>
+  </div>
+</header>
+
+<section class="trip-header">
+  <div class="wrap">
+    <div class="dates" id="trip-dates">…</div>
+    <h1 id="trip-name">Chargement…</h1>
+    <p class="summary" id="trip-summary"></p>
+    <div class="trip-stats" id="trip-stats"></div>
+  </div>
+</section>
+
+<div class="trip-layout">
+  <div class="trip-map-col">
+    <div id="trip-map"></div>
+  </div>
+  <div class="timeline" id="timeline">
+    <p style="color:var(--ink-faint)">Chargement des étapes…</p>
+  </div>
+</div>
+
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" aria-label="Fermer">&times;</button>
+  <button class="lightbox-prev" aria-label="Précédent">&#8249;</button>
+  <img id="lightbox-img" src="" alt="">
+  <button class="lightbox-next" aria-label="Suivant">&#8250;</button>
+  <div class="lightbox-count" id="lightbox-count"></div>
+</div>
+
+<script>window.TRIP_SLUG = "{{SLUG}}"; window.TRIP_DATA_BASE = "../";</script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="../assets/js/trip.js"></script>
+</body>
+</html>

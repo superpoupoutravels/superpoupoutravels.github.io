@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wayfarer Log — carnets de voyage</title>
+<meta name="description" content="Voyages, itinéraires et photos, glanés au fil des routes.">
+<!-- OG:START (regenere automatiquement par convert_polarsteps.py) -->
+<meta property="og:title" content="Wayfarer Log">
+<meta property="og:description" content="Dernier voyage : Maroc 2025. 10 jours dans le sud marocain">
+<meta property="og:image" content="photos/maroc-2025/_cover/cover.jpg">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<!-- OG:END -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="index.html">Wayfarer <em>Log</em></a>
+    <p class="site-tagline">Voyages, itinéraires et photos, glanés au fil des routes.</p>
+  </div>
+</header>
+
+<section class="hero">
+  <div id="hero-map" class="hero-map"></div>
+  <div class="wrap hero-caption">
+    <h1>Chaque voyage laisse une trace sur la carte.</h1>
+    <p>Un carnet de route pour retrouver les itinéraires parcourus, étape par étape, avec les photos prises en chemin.</p>
+    <div class="hero-stats" id="hero-stats"></div>
+  </div>
+</section>
+
+<main class="wrap">
+  <div class="trip-grid" id="trip-grid">
+    <p style="color:var(--ink-faint)">Chargement des voyages…</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">Wayfarer Log — site généré à partir d'exports Polarsteps.</div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
